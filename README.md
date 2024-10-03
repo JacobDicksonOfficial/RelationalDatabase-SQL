@@ -1,6 +1,6 @@
-# Telecom Express Relational Database
+# Telecom Express - Database
 
-<img src="telecomexpressandsql.png" alt="telecomexpress" width="800"/>
+<img src="telecomexpressandsql.png" alt="telecomexpress" width="500"/>
 
 ## Project Overview
 This project represents the relational database structure for **Telecom Express (TE)**, a telecommunications company offering various mobile plans such as SIM-only, phone contracts, and mobile broadband plans. The database aims to manage customer data, SIM card details, phone plans, billing, collections, and deactivations to ensure efficient management of Telecom Express's operations.
