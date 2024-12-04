@@ -3,10 +3,10 @@
 <img src="telecomexpressandsql.png" alt="telecomexpress" width="500"/>
 
 ## Project Overview
-This project represents the relational database structure for **Telecom Express (TE)**, a telecommunications company offering various mobile plans such as SIM-only, phone contracts, and mobile broadband plans. The database aims to manage customer data, SIM card details, phone plans, billing, collections, and deactivations to ensure efficient management of Telecom Express's operations.
+This project represents the relational database structure for **Telecom Express (TE)**, a telecommunications company offering various mobile plans such as SIM-only, phone contracts, and mobile broadband plans.<br> The database aims to manage customer data, SIM card details, phone plans, billing, collections, and deactivations to ensure efficient management of Telecom Express's operations.
 
 ## Business Description
-Telecom Express (TE) serves both individual customers and small businesses. The company offers mobile plans, including Pay As You Go (PAYG) and Bill Pay. Customer identity verification is essential for compliance with GDPR and fraud prevention. This database helps store and manage customer information, SIM card details, and plan specifications while ensuring the integrity of the system with rules and constraints.
+Telecom Express (TE) serves both individual customers and small businesses. The company offers mobile plans, including Pay As You Go (PAYG) and Bill Pay. Customer identity verification is essential for compliance with GDPR and fraud prevention.<br> This database helps store and manage customer information, SIM card details, and plan specifications while ensuring the integrity of the system with rules and constraints.
 
 ## Entities and Relationships
 The database includes the following entities, each representing a significant aspect of TE's business:
